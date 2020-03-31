@@ -21,9 +21,9 @@ body {
   display: inline-block;
 }
 
-.main-nav li.active a {
-  border: 1px solid white;
-}
+/* .main-nav li.active a {
+  border: 1px white;
+} */
 
 .main-nav li a:hover {
   border: 1px solid white;
